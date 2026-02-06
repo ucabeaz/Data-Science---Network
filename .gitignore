@@ -1,0 +1,5 @@
+# IDE
+.idea/
+
+# OS hidden folders
+.DS_Store
