@@ -1,11 +1,1 @@
-Project workflow
-
-sector_log_returns
-↓
-correlation matrix
-↓
-distance matrix
-↓
-minimum spanning tree (MST)
-↓
-community / sector clustering
+This project builds correlation-based networks from S&P 500 financial data at two scales — 9(11 from 2018) sector ETFs and 343 individual stocks — then compares the resulting network structure using minimum spanning trees, threshold networks, and rolling correlation analysis.
