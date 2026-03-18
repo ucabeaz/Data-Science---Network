@@ -1,1 +1,3 @@
+# Dynamics of Financial Correlation Networks in the S&P 500: ​ From Stocks to Sectors​
+
 This project builds correlation-based networks from S&P 500 financial data at two scales — 9(11 from 2018) sector ETFs and 343 individual stocks — then compares the resulting network structure using minimum spanning trees, threshold networks, and rolling correlation analysis.
